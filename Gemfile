@@ -32,10 +32,11 @@ gem 'bulma-rails'
 gem 'simple_form'
 gem 'devise'
 gem 'gravatar_image_tag'
-gem 'jquery-rails'
+#gem 'jquery-rails'
 gem 'wysiwyg-rails'
 gem 'public_activity'
 
+gem 'rails_db'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
